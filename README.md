@@ -67,8 +67,8 @@ dependencies:
 <p float="left">
   <img src="assets/screenshot1.png" width="250" style="padding-right: 20px;"/>
   <div style="width: 2px; height: 250px; background-color: #000; margin: 0 20px;"></div><img src="assets/screenshot2.png" width="250" style="padding-right: 20px;"/>
-  
 </p>
+
 ## Geliştirme Notları
 - `initState()` içinde `_verileriInternettenCek()` çağrılarak uygulama açılırken veri çekilir.
 - Kullanıcı dostu UI için `Padding` , `SizedBox`ve `Expanded` kullanıldı.
